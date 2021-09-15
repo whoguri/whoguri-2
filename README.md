@@ -10,5 +10,7 @@ Programming languages: Java, Kotlin, Swift, Dart, JavaScript
 
 Email: whogurwinder@gmail.com
 Website: whoguri.in
+Life Goal: A better version of me.
+priority: family
 
 ✨ whoguri ✨ 
