@@ -11,7 +11,6 @@
 <p align="left">
    <a href="https://dev.to/whoguri" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="whoguri" height="30" width="40" /></a>
    <a href="https://twitter.com/whoguri" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whoguri" height="30" width="40" /></a>
-   <a href="https://linkedin.com/in/whoguri" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="whoguri" height="30" width="40" /></a>
    <a href="https://stackoverflow.com/users/9993766/whoguri" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9993766/whoguri" height="30" width="40" /></a>
    <a href="https://fb.com/whoguri" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="whoguri" height="30" width="40" /></a>
    <a href="https://instagram.com/whoguri.in" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whoguri.in" height="30" width="40" /></a>
