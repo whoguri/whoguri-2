@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Gurwinder Singh</h1>
-<iframe src="https://whoguri.in/" title="W3Schools Free Online Web Tutorials"></iframe>
-
 <h3 align="center">A passionate full stack developer from India</h3>
 <br/>
 🌱 I’m currently learning *GraphQL and Flutter*
