@@ -3,7 +3,7 @@
 <br/>
 🌱 I’m currently learning *GraphQL and Flutter*
 <br/>
-📫 How to reach me *dev.whoguri@gmail.com*
+📫 How to reach me <a href="mailto:dev.whoguri@gmail.com">*dev.whoguri@gmail.com*</a>
 <br/>
 <br/>
 
