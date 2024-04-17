@@ -3,7 +3,7 @@
 <br/>
 🌱 I’m currently learning *GraphQL and Flutter*
 <br/>
-📫 How to reach me *whogurwinder@gmail.com*
+📫 How to reach me *dev.whoguri@gmail.com*
 <br/>
 <br/>
 
